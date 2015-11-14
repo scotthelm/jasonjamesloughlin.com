@@ -13,6 +13,7 @@ title: Resume
 |--------------------------|---------------------|-------------|----|
 | **Broadway / National Tour**<br><br> ||||
 | ---- | ---- | -------- | ------- |
+| The Audience | Footman | Stephen Daldry | Robert Fox/Playfull |
 | Machinal (revival) | Barber/Bellhop | Lyndsey Turner | Roundabout Theater |
 | ---- | ---- | -------- | ------- |
 | War Horse (1st National Tour) | Nichols/Paddy | Bijan Sheibani | NT-UK/Bob Boyet |
