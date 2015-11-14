@@ -29,7 +29,7 @@ permalink: /media/
     <div class="item carousel-image-small">
       <img class="img-responsive center-block" height="480" src="https://cloud.githubusercontent.com/assets/348407/5560320/2f5f06d6-8d4e-11e4-9bc9-cc8a03bf7ac4.JPG" alt="Verowne">
       <div class="carousel-caption">
-        Love's Labour's Lost - Shakespeare In Bryant Park - Verowne
+        Love's Labour's Lost - Shakespeare In Bryant Park - Berowne
       </div>
     </div>
   </div>
