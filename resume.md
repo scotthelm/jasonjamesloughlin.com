@@ -21,6 +21,7 @@ title: Resume
 | ---- | ---- | -------- | ------- |
 | **NYC/Regional**<br><br> ||||
 | -- | -- | -- | -- |
+| Million Dollar Quartet | Sam Phillips | Hunter Foster | Ogunquit Playhouse |
 | The Cottage | Beau | Adam Dannheisser | APAC |
 | -- | -- | -- | -- |
 | Mrs. Warren’s Profession | Frank Gardner | Susan Booth | Alliance Theatre |
