@@ -5,21 +5,21 @@ title: Resume
 
 | Show | Role | Director | Company |
 | ---- | ---- | -------- | ------- |
-| **Film/TV**<br><br> ||||
+| <br><br>**Film/TV**<br><br> ||||
 |-----------|-|-|-|
 | Forever-1.14 | Nathaniel Hawkes | David Warren | ABC |
 | "The Shunning" | Benjamin Lapp | Michael Landon, Jr | Hallmark |
 |---------------|---------------|--------------------|----------|
 | "Dawson’s Creek" Ep. 5.9 | Goateed Student(sp) | Krishna Rao | WB |
 |--------------------------|---------------------|-------------|----|
-| **Broadway / National Tour**<br><br> ||||
+| <br><br>**Broadway / National Tour**<br><br> ||||
 | ---- | ---- | -------- | ------- |
 | The Audience | Footman | Stephen Daldry | Robert Fox/Playfull |
 | Machinal (revival) | Barber/Bellhop | Lyndsey Turner | Roundabout Theater |
 | ---- | ---- | -------- | ------- |
 | War Horse (1st National Tour) | Nichols/Paddy | Bijan Sheibani | NT-UK/Bob Boyet |
 | ---- | ---- | -------- | ------- |
-| **NYC/Regional**<br><br> ||||
+| <br><br>**NYC/Regional**<br><br> ||||
 | -- | -- | -- | -- |
 | Million Dollar Quartet | Sam Phillips | Hunter Foster | Ogunquit Playhouse |
 | The Cottage | Beau | Adam Dannheisser | APAC |
