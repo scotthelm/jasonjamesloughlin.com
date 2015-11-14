@@ -3,16 +3,21 @@ layout: page
 title: Media
 permalink: /media/
 ---
+<h3>Reel</h3>
 <div class="text-center">
 <iframe width="854" height="480" src="https://www.youtube.com/embed/uhWBbUSiQps" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<br/>
+<br/>
+<br/>
+<h3>Photos</h3>
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
   </ol>
 
   <!-- Wrapper for slides -->
