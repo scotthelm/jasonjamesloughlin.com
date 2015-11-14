@@ -40,12 +40,15 @@ permalink: /media/
         Love's Labour's Lost - Shakespeare In Bryant Park - Berowne
       </div>
     </div>
+    
+    <!-- to add an image, copy from the line be low this -->
     <div class="item carousel-image-small">
       <img class="img-responsive center-block" height="480" src="https://cloud.githubusercontent.com/assets/15849272/11165256/17480678-8ad8-11e5-94ca-1005ce484620.jpg" alt="MDQ">
       <div class="carousel-caption">
         Million Dollar Quartet - Ogunquit Playhouse - Sam Phillips 
       </div>
     </div>
+    <!-- to the line above this, and make the appropriate changes -->
   </div>
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
