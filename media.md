@@ -36,7 +36,13 @@ permalink: /media/
       </div>
     </div>
   </div>
-
+   <div class="item carousel-image-small">
+      <img class="img-responsive center-block" height="480" src="https://cloud.githubusercontent.com/assets/15849272/11165256/17480678-8ad8-11e5-94ca-1005ce484620.jpg" alt="MDQ">
+      <div class="carousel-caption">
+        Million Dollar Quartet - Ogunquit Playhouse - Sam Phillips 
+      </div>
+    </div>
+  </div>
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
