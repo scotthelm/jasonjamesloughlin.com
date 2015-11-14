@@ -35,8 +35,7 @@ permalink: /media/
         Love's Labour's Lost - Shakespeare In Bryant Park - Berowne
       </div>
     </div>
-  </div>
-   <div class="item carousel-image-small">
+    <div class="item carousel-image-small">
       <img class="img-responsive center-block" height="480" src="https://cloud.githubusercontent.com/assets/15849272/11165256/17480678-8ad8-11e5-94ca-1005ce484620.jpg" alt="MDQ">
       <div class="carousel-caption">
         Million Dollar Quartet - Ogunquit Playhouse - Sam Phillips 
